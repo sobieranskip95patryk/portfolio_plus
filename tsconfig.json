@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "commonjs",
+    "lib": ["ES2020"],
+    "outDir": "./dist",
+    "rootDir": "./",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  },
+  "include": [
+    "memory/**/*.ts",
+    "nsf_integration_test.ts",
+    "metacognitive_nsf_engine.ts",
+    "full_agi_integration_test.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "devenv-cloner-generated"
+  ]
+}

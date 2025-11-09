@@ -1,0 +1,73 @@
+2025-11-09 18:44:51,921 - MIGI_DEMO - INFO - ======================================================================
+2025-11-09 18:44:53,046 - MIGI_CORE - INFO -    Capabilities: text_analysis, intent_detection, sentiment_analysis
+2025-11-09 18:44:53,105 - MIGI_CORE - INFO -    Capabilities: archetype_management, awareness_tracking, consciousness_monitoring, decision_support, context_integration, memory_management
+2025-11-09 18:44:55,163 - MIGI_CORE - INFO -    Capabilities: ip_analysis, geo_location, threat_mapping, risk_assessment
+2025-11-09 18:44:55,209 - MIGI_CORE - INFO -    Capabilities: intent_detection, threat_analysis, behavioral_analysis, risk_scoring
+2025-11-09 18:44:55,241 - MIGI_CORE - INFO -    Capabilities: real_time_monitoring, alert_generation, threat_correlation, incident_response
+2025-11-09 18:44:55,304 - MIGI_CORE - INFO -    Version: 1.0.0
+2025-11-09 18:44:55,311 - MIGI_CORE - INFO -    Multi-Integral Global Intelligence
+2025-11-09 18:44:57,886 - MIGI_DEMO - INFO -    version: 1.0.0
+2025-11-09 18:44:57,886 - MIGI_DEMO - INFO -    running: True
+2025-11-09 18:44:57,887 - MIGI_DEMO - INFO -    registered_modules: 5
+2025-11-09 18:44:57,895 - MIGI_DEMO - INFO -    active_modules: 5
+2025-11-09 18:44:57,896 - MIGI_DEMO - INFO -    consciousness_level: 87.5
+2025-11-09 18:44:57,897 - MIGI_DEMO - INFO -    active_archetypes: ['Sage', 'Creator']
+2025-11-09 18:44:57,897 - MIGI_DEMO - INFO -    context_depth: 0
+2025-11-09 18:44:57,898 - MIGI_DEMO - INFO - 
+============================================================
+2025-11-09 18:44:58,041 - MIGI_DEMO - INFO -    Processing Time: 0.065s
+2025-11-09 18:44:58,043 - MIGI_DEMO - INFO -    Insights Found: 6
+2025-11-09 18:44:58,044 - MIGI_DEMO - INFO -    Modules Tested: 5
+2025-11-09 18:44:58,045 - MIGI_DEMO - INFO -    Key Insights:
+2025-11-09 18:44:58,045 - MIGI_DEMO - INFO -      • nlp_core: Success (confidence: 0.75)
+2025-11-09 18:44:58,047 - MIGI_DEMO - INFO -      • intent_analyzer: Success (confidence: 0.30)
+2025-11-09 18:44:58,049 - MIGI_DEMO - INFO -      • Intent Analysis Performed
+2025-11-09 18:44:58,050 - MIGI_DEMO - INFO -      • Threat Detection Active
+2025-11-09 18:44:58,051 - MIGI_DEMO - INFO -      • threat_monitor: Success (confidence: 0.95)
+2025-11-09 18:44:59,057 - MIGI_DEMO - INFO - 
+============================================================
+2025-11-09 18:44:59,299 - MIGI_DEMO - INFO -    Processing Time: 0.095s
+2025-11-09 18:44:59,300 - MIGI_DEMO - INFO -    Insights Found: 3
+2025-11-09 18:44:59,300 - MIGI_DEMO - INFO -    Modules Tested: 1
+2025-11-09 18:44:59,302 - MIGI_DEMO - INFO -    Key Insights:
+2025-11-09 18:44:59,303 - MIGI_DEMO - INFO -      • Risk Level: LOW
+2025-11-09 18:44:59,306 - MIGI_DEMO - INFO -      • Confidence: 0.39
+2025-11-09 18:44:59,310 - MIGI_DEMO - INFO -      • Actions: LOG_AND_CONTINUE
+2025-11-09 18:45:00,328 - MIGI_DEMO - INFO - 
+============================================================
+2025-11-09 18:45:00,549 - MIGI_DEMO - INFO -    Processing Time: 0.054s
+2025-11-09 18:45:00,550 - MIGI_DEMO - INFO -    Insights Found: 6
+2025-11-09 18:45:00,551 - MIGI_DEMO - INFO -    Modules Tested: 5
+2025-11-09 18:45:00,552 - MIGI_DEMO - INFO -    Key Insights:
+2025-11-09 18:45:00,553 - MIGI_DEMO - INFO -      • nlp_core: Success (confidence: 0.75)
+2025-11-09 18:45:00,553 - MIGI_DEMO - INFO -      • intent_analyzer: Success (confidence: 0.00)
+2025-11-09 18:45:00,557 - MIGI_DEMO - INFO -      • Intent Analysis Performed
+2025-11-09 18:45:00,562 - MIGI_DEMO - INFO -      • Threat Detection Active
+2025-11-09 18:45:00,564 - MIGI_DEMO - INFO -      • threat_monitor: Success (confidence: 0.95)
+2025-11-09 18:45:01,573 - MIGI_DEMO - INFO - 
+============================================================
+2025-11-09 18:45:01,776 - MIGI_DEMO - INFO -    Processing Time: 0.084s
+2025-11-09 18:45:01,777 - MIGI_DEMO - INFO -    Insights Found: 6
+2025-11-09 18:45:01,778 - MIGI_DEMO - INFO -    Modules Tested: 5
+2025-11-09 18:45:01,779 - MIGI_DEMO - INFO -    Key Insights:
+2025-11-09 18:45:01,780 - MIGI_DEMO - INFO -      • nlp_core: Success (confidence: 0.75)
+2025-11-09 18:45:01,781 - MIGI_DEMO - INFO -      • intent_analyzer: Success (confidence: 0.00)
+2025-11-09 18:45:01,781 - MIGI_DEMO - INFO -      • Intent Analysis Performed
+2025-11-09 18:45:01,782 - MIGI_DEMO - INFO -      • Threat Detection Active
+2025-11-09 18:45:01,782 - MIGI_DEMO - INFO -      • threat_monitor: Success (confidence: 0.95)
+2025-11-09 18:45:02,792 - MIGI_DEMO - INFO - 
+============================================================
+2025-11-09 18:45:02,999 - MIGI_DEMO - INFO -    Processing Time: 0.088s
+2025-11-09 18:45:03,000 - MIGI_DEMO - INFO -    Insights Found: 3
+2025-11-09 18:45:03,001 - MIGI_DEMO - INFO -    Modules Tested: 4
+2025-11-09 18:45:03,002 - MIGI_DEMO - INFO -    Key Insights:
+2025-11-09 18:45:03,005 - MIGI_DEMO - INFO -      • Alerts Generated: 3
+2025-11-09 18:45:03,008 - MIGI_DEMO - INFO -      • Guardian Archetype Activated
+2025-11-09 18:45:03,008 - MIGI_DEMO - INFO -      • Coordinated Response Initiated
+2025-11-09 18:45:04,030 - MIGI_DEMO - INFO -    Total Scenarios: 5
+2025-11-09 18:45:04,032 - MIGI_DEMO - INFO -    Success Rate: 100.0%
+2025-11-09 18:45:04,032 - MIGI_DEMO - INFO -    Total Execution Time: 12.06s
+2025-11-09 18:45:04,033 - MIGI_DEMO - INFO -    Insights Generated: 24
+2025-11-09 18:45:04,033 - MIGI_DEMO - INFO -    Modules Tested: 5
+2025-11-09 18:45:04,034 - MIGI_DEMO - INFO -    System Performance: EXCELLENT
+2025-11-09 18:45:04,249 - MIGI_DEMO - INFO - ======================================================================

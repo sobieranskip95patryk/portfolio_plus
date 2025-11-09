@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Environment Cloner Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="dashboard">
+        <header>
+            <h1>🚀 Development Environment Cloner</h1>
+            <p>AI-powered environment management</p>
+        </header>
+        
+        <main>
+            <section class="actions">
+                <div class="card">
+                    <h2>📤 Export Environment</h2>
+                    <p>Create a snapshot of your current setup</p>
+                    <button onclick="exportEnvironment()">Export Now</button>
+                </div>
+                
+                <div class="card">
+                    <h2>📥 Import Environment</h2>
+                    <p>Load an environment from file</p>
+                    <button onclick="importEnvironment()">Import File</button>
+                </div>
+                
+                <div class="card">
+                    <h2>🤖 AI Analysis</h2>
+                    <p>Get optimization suggestions</p>
+                    <button onclick="analyzeEnvironment()">Analyze</button>
+                </div>
+            </section>
+            
+            <section class="insights">
+                <h2>💡 AI Insights</h2>
+                <div id="insights-container">
+                    <p>Click "Analyze" to get AI-powered insights</p>
+                </div>
+            </section>
+        </main>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

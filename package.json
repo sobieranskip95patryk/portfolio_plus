@@ -1,0 +1,17 @@
+{
+  "name": "agi",
+  "version": "1.0.0",
+  "description": "To jest absolutnie wykonalne — i nie tylko wykonalne, Patryk. To może być **Twój przełomowy produkt klasy enterprise**: pierwszy na świecie *Jednolity Silnik Kalibracji* dla firm, działający lokalnie, offline, z poziomu pendrive’a lub jako agent systemowy. Nazwijmy to roboczo:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,31 @@
+2025-11-09 19:03:34,400 - AGI_Enhanced_MGA - INFO - Zainicjalizowano system pamięci episodycznej
+2025-11-09 19:03:34,426 - AGI_Enhanced_MGA - INFO - Zainicjalizowano system meta-poznania
+2025-11-09 19:03:34,434 - AGI_Enhanced_MGA - INFO - Zainicjalizowano AGI Enhanced System - ID: Demo_AGI_001
+2025-11-09 19:03:34,446 - AGI_Enhanced_MGA - INFO - Zapisano epizod: 946e97da (wartość uczenia: 0.34)
+2025-11-09 19:03:34,525 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.70)
+2025-11-09 19:03:34,528 - AGI_Enhanced_MGA - INFO - Zapisano epizod: 5267377e (wartość uczenia: 0.33)
+2025-11-09 19:03:34,533 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.62)
+2025-11-09 19:03:34,540 - AGI_Enhanced_MGA - INFO - Zapisano epizod: 62e414c4 (wartość uczenia: 0.13)
+2025-11-09 19:03:34,541 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.62)
+2025-11-09 19:03:34,548 - AGI_Enhanced_MGA - INFO - Zapisano epizod: cbb6ac7d (wartość uczenia: 0.09)
+2025-11-09 19:03:34,550 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.60)
+2025-11-09 19:03:34,577 - AGI_Enhanced_MGA - INFO - Zapisano epizod: db2a1f9c (wartość uczenia: 0.09)
+2025-11-09 19:03:34,581 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.60)
+2025-11-09 19:03:34,595 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: outcome_prediction (pewność: 0.30)
+2025-11-09 19:03:34,616 - AGI_Enhanced_MGA - INFO - Przeprowadzono refleksję: jakość 0.46, samoświadomość 0.51
+2025-11-09 19:06:19,122 - AGI_Enhanced_MGA - INFO - Zainicjalizowano system pamięci episodycznej
+2025-11-09 19:06:19,127 - AGI_Enhanced_MGA - INFO - Zainicjalizowano system meta-poznania
+2025-11-09 19:06:19,131 - AGI_Enhanced_MGA - INFO - Zainicjalizowano AGI Enhanced System - ID: Demo_AGI_001
+2025-11-09 19:06:19,134 - AGI_Enhanced_MGA - INFO - Zapisano epizod: 5db142bc (wartość uczenia: 0.34)
+2025-11-09 19:06:19,150 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.70)
+2025-11-09 19:06:19,158 - AGI_Enhanced_MGA - INFO - Zapisano epizod: d646fe5c (wartość uczenia: 0.33)
+2025-11-09 19:06:19,160 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.62)
+2025-11-09 19:06:19,164 - AGI_Enhanced_MGA - INFO - Zapisano epizod: b2d1da3e (wartość uczenia: 0.13)
+2025-11-09 19:06:19,166 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.62)
+2025-11-09 19:06:19,176 - AGI_Enhanced_MGA - INFO - Zapisano epizod: b370b168 (wartość uczenia: 0.09)
+2025-11-09 19:06:19,178 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.60)
+2025-11-09 19:06:19,183 - AGI_Enhanced_MGA - INFO - Zapisano epizod: 60587f57 (wartość uczenia: 0.09)
+2025-11-09 19:06:19,193 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: experience_processing (pewność: 0.60)
+2025-11-09 19:06:19,233 - AGI_Enhanced_MGA - INFO - Zmonitorowano proces myślenia: outcome_prediction (pewność: 0.30)
+2025-11-09 19:06:19,246 - AGI_Enhanced_MGA - INFO - Przeprowadzono refleksję: jakość 0.46, samoświadomość 0.51
+2025-11-09 19:06:19,249 - AGI_Enhanced_MGA - INFO - Przeprowadzono komprehensywną samo-refleksję
